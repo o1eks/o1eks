@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Please call me Oleks (note: s is pronoused)
 - 🔭 I’m currently working on [pyto](https://github.com/o1eks/pyto)
 - 😄 Pronouns: he/him
 
